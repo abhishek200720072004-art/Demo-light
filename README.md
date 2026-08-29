@@ -1,3 +1,3 @@
 # Demo-light
-my first project.
+ This my first Git Repository.
 Author - abhishek
